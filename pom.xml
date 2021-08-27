@@ -5,7 +5,7 @@
   <packaging>pom</packaging>
   <groupId>com.rbkmoney</groupId>
   <artifactId>library-parent-pom</artifactId>
-  <version>1.0.5</version>
+  <version>1.0.5-1</version>
   <name>RBKmoney parent</name>
   <description>RBKmoney library parent pom</description>
   <url>https://github.com/rbkmoney/library-parent-pom</url>
